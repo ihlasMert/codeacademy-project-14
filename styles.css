@@ -177,9 +177,15 @@ main {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  color: red;
-}
-.foot h6{
+  position: absolute;
+  top: 219%;
+  left: 43%;
   color: #ffffff;
   text-align: center;
+}
+footer{
+  text-align: left;
+  color: #ffffff;
+  margin-top: 85%;
+  margin-left: 20px;
 }
